@@ -32,6 +32,11 @@ like this ->
 ```php
   {!! Helper::goBack(false) !!}
 ```
+## Requirments
+
+* Route registered with name *Home*
+* FontAwesome
+* Bootstrap
 
 ## License
 
