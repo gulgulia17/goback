@@ -39,7 +39,7 @@ The MIT Public License. Please see [LICENSE](LICENSE) for more information.
 
 [badge_php]:         https://img.shields.io/badge/PHP-7%20to%208.x-orange.svg
 [badge_issues]:      https://img.shields.io/github/issues/gulgulia17/goback
-[badge_release]:     https://img.shields.io/packagist/v/gulgulia17/goback
+[badge_release]:     https://badgen.net/packagist/v/gulgulia17/goback
 [badge_quality]:     https://img.shields.io/scrutinizer/g/gulgulia17/goback.svg
 [badge_downloads]:   https://img.shields.io/packagist/dt/gulgulia17/goback
 [badge_package]:     https://img.shields.io/badge/package-gulgulia17/goback-blue.svg
