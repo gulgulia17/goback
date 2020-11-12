@@ -31,6 +31,11 @@ class Helper
     {
         $routeNameArray = static::routeNameArray();
         $previousURL = URL::previous();
+
+        if (!$previousURL) {
+            return null;
+        }
+
         if (!$routeNameArray) {
             return null;
         }
@@ -48,7 +53,6 @@ class Helper
         if (!$button) {
             return $previousURL;
         }
-
         return  "<a href='{$previousURL}' class='btn btn-default'>
                     <i class='fa fa-arrow-left' aria-hidden='true'></i>
                 </a>";
