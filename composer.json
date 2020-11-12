@@ -6,16 +6,14 @@
     "authors": [
         {
             "name": "gulgulia17",
-            "email": "gulgulia17@gmail.com"        }
+            "email": "gulgulia17@gmail.com"
+        }
     ],
     "minimum-stability": "dev",
     "require": {
         "php": ">=7.0.0"
     },
     "autoload": {
-        "files": [
-            "gulgulia17/goback/Helper/Helper.php"
-        ],
         "psr-4": {
             "gulgulia17\\goback\\": "src/"
         }
