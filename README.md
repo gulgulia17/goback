@@ -48,12 +48,12 @@ The MIT Public License. Please see [LICENSE](LICENSE) for more information.
 [badge_quality]:     https://img.shields.io/scrutinizer/g/gulgulia17/goback.svg
 [badge_downloads]:   https://img.shields.io/packagist/dt/gulgulia17/goback
 [badge_package]:     https://img.shields.io/badge/package-gulgulia17/goback-blue.svg
-[badge_license]:     https://img.shields.io/github/license/sunarcrajneesh/excel-import
-[badge_stars]:       https://img.shields.io/github/stars/sunarcrajneesh/excel-import
-[badge_forks]:       https://img.shields.io/github/forks/sunarcrajneesh/excel-import
+[badge_license]:     https://img.shields.io/github/license/gulgulia17/goback
+[badge_stars]:       https://img.shields.io/github/stars/gulgulia17/goback
+[badge_forks]:       https://img.shields.io/github/forks/gulgulia17/goback
 
-[link-author]:        https://github.com/sunarcrajneesh
-[link-github-repo]:   https://github.com/sunarcrajneesh/excel-import
-[link-github-issues]: https://github.com/sunarcrajneesh/excel-import/issues
-[link-contributors]:  https://github.com/sunarcrajneesh/excel-import/graphs/contributors
-[link-packagist]:     https://packagist.org/packages/sunarctech/excel-import
+[link-author]:        https://github.com/gulgulia17
+[link-github-repo]:   https://github.com/gulgulia17/goback
+[link-github-issues]: https://github.com/gulgulia17/goback/issues
+[link-contributors]:  https://github.com/gulgulia17/goback/graphs/contributors
+[link-packagist]:     https://packagist.org/packages/gulgulia17/goback
