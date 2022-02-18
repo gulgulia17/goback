@@ -1,22 +1,38 @@
 {
     "name": "gulgulia17/goback",
     "description": "This package provides you with a simple goback button to use on your blade files. It will let you focus on the development and will handle the back button functionality.",
-    "type": "library",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "gulgulia17",
-            "email": "gulgulia17@gmail.com"
-        }
+    "keywords": [
+        "gulgulia17",
+        "laravel-backbutton",
+        "back-button",
+        "breadcrumbs",
+        "back-button-laravel"
     ],
+    "homepage": "https://github.com/gulgulia17/goback",
+    "license": "MIT",
+    "type": "library",
+    "authors": [{
+        "name": "gulgulia17",
+        "email": "gulgulia17@gmail.com"
+    }],
     "minimum-stability": "dev",
     "require": {
-        "php": ">=7.0.0"
+        "php": ">=7.0.0",
+        "laravel/framework": ">=6.0"
     },
+    "require-dev": {},
     "autoload": {
+        "files": [],
         "psr-4": {
             "gulgulia17\\goback\\": "src/"
         }
+    },
+    "autoload-dev": {
+        "psr-4": {}
+    },
+    "scripts": {},
+    "config": {
+        "sort-packages": true
     },
     "extra": {
         "laravel": {
